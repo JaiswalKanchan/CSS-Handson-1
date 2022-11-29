@@ -1,0 +1,44 @@
+h1{
+    color: red;
+}
+h2{
+    color: red;
+    font-style: italic;
+}
+ol{
+    color:brown;
+    line-height: 40px;
+    
+}
+ul{
+    color: brown;
+}
+vl{
+    color: darkred;
+}
+a{
+    color: red;
+}
+.first{
+    text-decoration: line-through;
+    font-weight: 20px;
+}
+span{
+    font-style: italic;
+    color: brown;
+}
+.second{
+    font-weight: 20px;
+    background-color: yellow;
+}
+.third{
+    text-decoration: underline;
+    font-style: italic;
+}
+d{
+    background-color: yellow;
+    
+}
+.text{
+    letter-spacing:5px;
+}
